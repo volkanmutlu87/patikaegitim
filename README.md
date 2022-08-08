@@ -1,0 +1,2 @@
+# patikaegitim
+egitim calısmaları
